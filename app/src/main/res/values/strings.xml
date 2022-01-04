@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string-array name="spinner">
+        <item>first</item>
+        <item>second</item>
+        <item>Third</item>
+    </string-array>
+    <string name="button">Button</string>
+</resources>
